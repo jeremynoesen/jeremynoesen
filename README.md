@@ -6,14 +6,4 @@ I'm a student studying Computer Engineering at Iowa State University. I am profi
 
 Most of my repositories are just for fun, personal projects. Occasionally, you will find some of my school projects here.
 
-# Connections
-
-🎮 Discord - @Jeremaster101#0494 or [my server](https://discord.gg/up8CUuW)
-
-📷 Instagram - [@Jeremaster101](https://www.instagram.com/jeremaster101/?hl=en)
-
-👤 Facebook - [Jeremy Noesen](https://www.facebook.com/jeremy.noesen/)
-
-🤖 Reddit - [u/Jeremaster101](https://www.reddit.com/user/Jeremaster101)
-
-🚰 Spigot - [Jeremaster101](https://www.spigotmc.org/members/jeremaster101.70067/)
+Also check out the [JNDev Discord Server](https://discord.gg/up8CUuW) and my [Spigot Profile Page](https://www.spigotmc.org/members/jeremaster101.70067/).
