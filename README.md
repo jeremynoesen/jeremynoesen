@@ -6,4 +6,4 @@ I'm a student studying Computer Engineering at Iowa State University. I am profi
 
 Most of my repositories are just for fun, personal projects. Occasionally, you will find some of my school projects here.
 
-Also check out the [JNDev Discord Server](https://discord.gg/up8CUuW) and my [Spigot Profile Page](https://www.spigotmc.org/members/jeremaster101.70067/).
+Also, check out the [JNDev Discord Server](https://discord.gg/up8CUuW) to chat, and check out my [Spigot Profile Page](https://www.spigotmc.org/members/jeremaster101.70067/) to see my Spigot plugins.
