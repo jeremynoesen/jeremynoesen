@@ -7,7 +7,7 @@ I'm a student studying Computer Engineering at Iowa State University. I am profi
 Most of my repositories are just for fun, personal projects. Occasionally, you will find some of my school projects here.
 
 In my repositories, you will find three branches:<br>
-• development - changes often, not guaranteed to work or even compile<br>
+• development - changes often and most up-to-date, not guaranteed to work or even compile<br>
 • stable - changes less often, most likely compiles and works, partially tested, not polished<br>
 • release - changes infrequently, guaranteed to work, tested, polished, has published releases
 
