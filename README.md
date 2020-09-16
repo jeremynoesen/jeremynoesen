@@ -9,6 +9,6 @@ Most of my repositories are just for fun, personal projects. Occasionally, you w
 In my repositories, you will find three branches:<br>
 • development - changes often and most up-to-date, not guaranteed to work or even compile<br>
 • stable - changes less often, most likely compiles and works, partially tested, not polished<br>
-• release - changes infrequently, guaranteed to work, tested, polished, has published releases
+• release - changes infrequently, guaranteed to work, tested, polished, may also have published releases
 
 *(These branches were changed recently, so some repositories may lack releases and a stable release branch)*
