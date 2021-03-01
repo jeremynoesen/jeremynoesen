@@ -12,6 +12,8 @@ I am a Computer Engineering student at Iowa State University. I am proficient wi
 ---
 
 <div align="center">
+
+  <br>
   
   [<img src="https://img.shields.io/static/v1?label=&message=Discord&color=0066ff&style=for-the-badge&logo=discord&logoColor=ffffff" />][discord]
   [<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=0077ff&style=for-the-badge&logo=twitter&logoColor=ffffff" />][twitter]
