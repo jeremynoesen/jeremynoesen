@@ -7,4 +7,18 @@ I am a Computer Engineering student at Iowa State University. I am proficient wi
 
 ---
 
-[![GitHub Sponsors](images/GitHub.png)](https://github.com/sponsors/jeremynoesen) [![Discord](images/Discord.png)](https://discordapp.com/users/393939920177070100/) [![PayPal](images/PayPal.png)](https://paypal.me/jeremynoesen) [![Twitter](images/Twitter.png)](https://twitter.com/Jeremaster101) [![Mail](images/Mail.png)](mailto:jeremynoesen@gmail.com)
+<div>
+  
+  [<img src="https://img.shields.io/static/v1?label=&message=Discord&color=0066ff&style=for-the-badge&logo=discord&logoColor=ffffff" />][discord]
+  [<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=0077ff&style=for-the-badge&logo=twitter&logoColor=ffffff" />][twitter]
+  [<img src="https://img.shields.io/static/v1?label=&message=Email&color=0088ff&style=for-the-badge&logo=gmail&logoColor=ffffff" />][email]
+  [<img src="https://img.shields.io/static/v1?label=&message=Sponsor&color=ee6600&style=for-the-badge&logo=github&logoColor=ffffff" />][github]
+  [<img src="https://img.shields.io/static/v1?label=&message=Donate&color=ee5500&style=for-the-badge&logo=paypal&logoColor=ffffff" />][paypal]
+
+</div>
+
+[discord]: https://discordapp.com/users/393939920177070100/
+[twitter]: https://twitter.com/Jeremaster101
+[email]: mailto:jeremynoesen@hotmail.com
+[github]: https://github.com/sponsors/jeremynoesen
+[paypal]: https://paypal.me/jeremynoesen
