@@ -15,12 +15,11 @@ I am a Computer Engineering student at Iowa State University. I am proficient wi
 
   <br>
   
-  [<img src="https://img.shields.io/static/v1?label=&message=Discord&color=0066ff&style=for-the-badge&logo=discord&logoColor=ffffff" />][discord]
-  [<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=0077ff&style=for-the-badge&logo=twitter&logoColor=ffffff" />][twitter]
-  [<img src="https://img.shields.io/static/v1?label=&message=Email&color=0088ff&style=for-the-badge&logo=gmail&logoColor=ffffff" />][email]
-  <br/>
-  [<img src="https://img.shields.io/static/v1?label=&message=Sponsor&color=ee5500&style=for-the-badge&logo=github&logoColor=ffffff" />][github]
-  [<img src="https://img.shields.io/static/v1?label=&message=Donate&color=ee6600&style=for-the-badge&logo=paypal&logoColor=ffffff" />][paypal]
+  [<img src="https://img.shields.io/static/v1?label=&message=Discord&color=888888&style=for-the-badge&logo=discord&logoColor=ffffff" />][discord]
+  [<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=888888&style=for-the-badge&logo=twitter&logoColor=ffffff" />][twitter]
+  [<img src="https://img.shields.io/static/v1?label=&message=Email&color=888888&style=for-the-badge&logo=gmail&logoColor=ffffff" />][email]
+  [<img src="https://img.shields.io/static/v1?label=&message=Sponsor&color=888888&style=for-the-badge&logo=github&logoColor=ffffff" />][github]
+  [<img src="https://img.shields.io/static/v1?label=&message=Donate&color=888888&style=for-the-badge&logo=paypal&logoColor=ffffff" />][paypal]
 
 </div>
 
