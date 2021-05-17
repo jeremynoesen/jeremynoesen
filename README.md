@@ -1,7 +1,7 @@
 <img src="Logo.png" alt="Logo" title="Logo" align="right" width="200" height="200" />
 
 ### Hey, I'm Jeremy
-I am a Computer Engineering student at Iowa State University. I am proficient with Java and Kotlin, and I am familiar with C. I enjoy game and game-related development, and occasionally graphic design.
+I am a Computer Engineering student at Iowa State University. I enjoy game-related development, as well as graphic design.
 
 <br>
 
