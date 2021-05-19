@@ -1,9 +1,9 @@
 <img src="Logo.png" alt="Logo" title="Logo" align="right" width="200" height="200" />
 
 ### Hey, I'm Jeremy
-I am a Computer Engineering student at Iowa State University. I enjoy game-related development, as well as graphic design.
+I am a Computer Engineering student at Iowa State University. 
 
-<br>
+I enjoy game-related development, as well as graphic design.
 
 [![Message me in Discord](https://img.shields.io/static/v1?label=&message=Discord&color=778088&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discordapp.com/users/393939920177070100/ "Message me in Discord")
 [![Sponsor me on GitHub Sponsors](https://img.shields.io/static/v1?label=&message=Sponsor&color=778088&style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sponsors/jeremynoesen "Sponsor me on GitHub Sponsors")
