@@ -5,6 +5,6 @@
 ### Hey, I'm Jeremy
 I am a Computer Engineering student at Iowa State University. 
 
-I enjoy game-related development, as well as graphic design.
+I enjoy game and web development, as well as graphic design.
 
 ---
