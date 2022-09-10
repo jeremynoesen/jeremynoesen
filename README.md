@@ -1,4 +1,4 @@
-<img src="Logo.svg" alt="Logo" title="Logo" align="left" width="200" height="168" />
+<img src="Logo.svg" alt="Logo" title="Logo" align="left" width="200" height="160" />
 
 ---
 
