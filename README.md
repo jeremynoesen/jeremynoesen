@@ -2,7 +2,7 @@
 
 ---
 
-### Hey, I'm Jeremy
-I am a Computer Engineering student at Iowa State University. 
+### I'm Jeremy
+I am a graduate student in Computer Engineering at Iowa State University.
 
 ---
