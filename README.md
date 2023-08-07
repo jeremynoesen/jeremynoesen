@@ -4,6 +4,6 @@
 
 ### I'm Jeremy
 
-I am a graduate student in Computer Engineering at Iowa State University.
+I am a graduate student in Computer Engineering at Iowa State University with an interest in embedded software.
 
 ---
