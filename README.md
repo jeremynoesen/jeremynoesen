@@ -1,9 +1,5 @@
-<img src="Logo.svg" alt="Logo" title="Logo" align="left" width="180" height="180" />
+<img src="Logo.svg" alt="Logo" title="Logo" align="right" width="72" height="72" />
 
----
+# Welcome to my GitHub profile!
 
-### I'm Jeremy
-
-I am a graduate student in Computer Engineering at Iowa State University with an interest in embedded software. 
-
----
+Although I am interested in embedded software, you will find that it is not the only thing I do. Feel free to explore my pinned repositories below, as well as any of my other repositories.
