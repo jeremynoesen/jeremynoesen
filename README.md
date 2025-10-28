@@ -1,4 +1,4 @@
-<img src="Logo.svg" alt="Logo" title="Logo" align="right" width="72" height="72" />
+<img src="Logo.svg" alt="Logo" title="Logo" align="left" width="72" height="72" />
 
 # Welcome to my GitHub!
 
