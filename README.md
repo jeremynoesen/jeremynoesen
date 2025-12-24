@@ -1,4 +1,4 @@
-<img src="Logo.svg" alt="Logo" title="Logo" align="left" width="144" height="144" />
+<img src="Logo.svg" alt="Logo" title="Logo" align="left" width="128" height="128" />
 
 ### Welcome to my profile!
 
